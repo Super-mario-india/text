@@ -1,5 +1,5 @@
 streamlit
-numpy
+numpy==1.26.4
 pandas
 matplotlib
 fpdf
@@ -19,12 +19,11 @@ pypdf2
 streamlit-mic-recorder
 textstat
 evaluate
-rouge_score
+rouge-score
 datasets
 scikit-learn
 streamlit-autorefresh
 spacy
-sentence-transformers
-difflib
+sentence-transformers==2.2.2
 kaggle
 google-generativeai
